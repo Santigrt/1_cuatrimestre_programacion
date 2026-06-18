@@ -31,5 +31,3 @@ configuracion_bd = ('localhost', 5432, 'mi_base_de_datos', 'admin', 'admin123')
 
 
 host, puerto, nombre_bd, usuario, password = configuracion_bd
-
-
